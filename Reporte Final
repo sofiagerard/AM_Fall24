@@ -1,0 +1,67 @@
+# **Reporte del Proyecto Final: Aprendizaje de Máquina**
+## **Prof: Felipe González**
+
+## **1. Introducción**
+
+Descripción general del proyecto: 
+
+El objetivo que tuvo nuestro proyecto era predecir, con base en la base que tenemos y las variables que vienen ahí contenidas, 
+Proporciona una descripción general de tu proyecto:
+- ¿Cuál es el problema que estás resolviendo?
+- ¿Por qué es importante?
+- ¿Cuáles son los objetivos principales del proyecto?
+
+---
+
+## **2. Descripción de los Datos**
+### **2.1 Descripción del Conjunto de Datos**
+- Fuente del/los conjunto(s) de datos.
+- Tamaño y estructura del conjunto de datos (número de muestras, características, etc.).
+- Variables o características clave.
+
+### **2.2 Preprocesamiento de los Datos**
+- Pasos realizados para limpiar o transformar los datos.
+- Tratamiento de valores faltantes, outliers, etc.
+- Ingeniería de características (si aplica).
+
+---
+
+## **3. Metodología**
+### **3.1 Modelos de Aprendizaje Automático**
+- Lista y breve descripción de los modelos utilizados (por ejemplo, Regresión Lineal, Random Forest, Redes Neuronales).
+- Razón por la que cada modelo fue seleccionado.
+
+### **3.2 Entrenamiento y Validación**
+- Cómo se dividieron los datos (por ejemplo, división train/test, validación cruzada).
+- Mención de técnicas de optimización o ajuste de hiperparámetros utilizadas.
+
+---
+
+## **4. Resultados**
+### **4.1 Desempeño de los Modelos**
+- Métricas utilizadas para evaluar los modelos (por ejemplo, precisión, recall, F1-score, RMSE, etc.).
+- Comparación de los desempeños de los modelos (considera usar tablas o gráficos).
+
+### **4.2 Discusión**
+- Análisis de los resultados obtenidos.
+- Fortalezas y debilidades de los modelos.
+
+---
+
+## **5. Conclusión**
+- Resumen de los hallazgos y resultados.
+- Relevancia del trabajo realizado.
+- Sugerencias para mejoras o trabajos futuros.
+
+---
+
+## **6. Referencias**
+Lista todas las referencias utilizadas (por ejemplo, artículos, sitios web, conjuntos de datos).
+
+---
+
+## **Apéndice (Opcional)**
+Incluye material adicional, como:
+- Fragmentos de código completos.
+- Tablas o gráficos extendidos.
+- Derivaciones matemáticas detalladas, si es necesario.
